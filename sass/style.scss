@@ -528,7 +528,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	}
 
 	.couple-main{
-		width: 400px;
+		width:100%;
 
 		@media screen and (max-width: $screen-xs) {
 			width: 250px;
@@ -578,7 +578,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		}
 
 		.couple-main{
-			width: 200px;
+			width: 100%;
 		}
 
 		h1 {
